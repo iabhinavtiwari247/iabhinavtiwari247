@@ -1,17 +1,17 @@
 # 👋 Welcome to My GitHub Profile - **Abhinav Tiwari**
 
-As a passionate software engineer and technology enthusiast, I thrive on solving complex problems and building innovative solutions. My expertise spans across various domains, and I am committed to leveraging technology to create impactful applications.
+As a passionate software engineering student and technology enthusiast, I thrive on solving complex problems and building innovative solutions. My expertise spans across various domains, and I am committed to leveraging technology to create impactful applications.
 
 ---
 
 ## 🌐 About Me
 
-- **🔭 Current Endeavor:** Developing cutting-edge applications using **[Your Current Technology/Framework]**.
-- **🌱 Continuous Learning:** Currently delving into **[Your Current Learning Focus]** to enhance my skill set.
-- **🤝 Collaboration:** Actively seeking opportunities to collaborate on projects involving **[Your Areas of Interest]**.
-- **💬 Expertise:** Proficient in **[Your Areas of Expertise]**; feel free to reach out for discussions or inquiries.
-- **📫 Contact:** [Your Email] | [LinkedIn Profile]
-- **⚡ Fun Fact:** [A Fun Fact About You]
+- **🔭 Current Endeavor:** Developing cutting-edge applications using **[.........]**.
+- **🌱 Continuous Learning:** Currently delving into **[............]** to enhance my skill set.
+- **🤝 Collaboration:** Actively seeking opportunities to collaborate on projects involving **[............]**.
+- **💬 Expertise:** Proficient in **[............]**; feel free to reach out for discussions or inquiries.
+- **📫 Contact:** [...........] | [..............]
+- **⚡ Fun Fact:**[But I am too lazy]**
 
 ---
 

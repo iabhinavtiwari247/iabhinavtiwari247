@@ -1,3 +1,5 @@
+![intro banner](https://github.com/user-attachments/assets/eb2ab3ff-464c-48b0-808d-4104cc5e552a)
+
 # 👋 Welcome to My GitHub Profile - **Abhinav Tiwari**
 
 ![Neon Gradient Banner](https://images.app.goo.gl/v6mZ89giKrC1GxMP7//#39FF14/Green?text=Welcome+to+My+Profile) <!-- https://images.app.goo.gl/v6mZ89giKrC1GxMP7-->
@@ -7,6 +9,7 @@ As a passionate software engineering student, I thrive on solving complex proble
 ---
 
 ## 🌐 About Me
+![neon abhinav](https://github.com/user-attachments/assets/868dc96f-344f-4e21-9c87-f0030e5cf21e)
 
 - **🔭 Current Endeavor:** Developing cutting-edge applications using **[Full Stack Web-Dev/React.js]**.
 - **🌱 Continuous Learning:** Currently delving into **[Embedded Systems]**.
@@ -17,10 +20,11 @@ As a passionate software engineering student, I thrive on solving complex proble
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 ![Neon Gradient Tech Stack](https://via.placeholder.com/1200x50/00FF00/000000?text=Tech+Stack) <!-- Replace with your own gradient image -->
-
+![tech stack 2](https://github.com/user-attachments/assets/ddf90605-d1f7-451c-aa01-0901c2df5e2d)
 ### **Languages**
 - ![JavaScript Badge](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
 - ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,6 +42,7 @@ As a passionate software engineering student, I thrive on solving complex proble
 ---
 
 ## 📈 GitHub Stats
+![github logo](https://github.com/user-attachments/assets/1b07c6ad-24a2-49f6-b74e-d05381678c3e)
 
 ![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabhinavtiwari247&show_icons=true&theme=radical&count_private=true)
 

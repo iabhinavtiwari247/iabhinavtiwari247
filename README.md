@@ -10,6 +10,8 @@ As a passionate software engineering student, I thrive on solving complex proble
 
 ## 🌐 About Me
 ![neon abhinav](https://github.com/user-attachments/assets/868dc96f-344f-4e21-9c87-f0030e5cf21e)
+![Github Cover](https://github.com/user-attachments/assets/120b8148-22b6-42a2-b548-6fbfa036ec42)
+
 
 - **🔭 Current Endeavor:** Developing cutting-edge applications using **[Full Stack Web-Dev/React.js]**.
 - **🌱 Continuous Learning:** Currently delving into **[Embedded Systems]**.

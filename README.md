@@ -6,12 +6,12 @@ As a passionate software engineering student and technology enthusiast, I thrive
 
 ## 🌐 About Me
 
-- **🔭 Current Endeavor:** Developing cutting-edge applications using **[.........]**.
-- **🌱 Continuous Learning:** Currently delving into **[............]** to enhance my skill set.
-- **🤝 Collaboration:** Actively seeking opportunities to collaborate on projects involving **[............]**.
-- **💬 Expertise:** Proficient in **[............]**; feel free to reach out for discussions or inquiries.
-- **📫 Contact:** [...........] | [..............]
-- **⚡ Fun Fact:**[But I am too lazy]**
+- **🔭 Current Endeavor:** Developing cutting-edge applications using **[Full Stack Development]**.
+- **🌱 Continuous Learning:** Currently delving into **[Embedded Systems]** to enhance my skill set.
+- **🤝 Collaboration:** Actively seeking opportunities to collaborate on projects involving **[System Security]**.
+- **💬 Expertise:** Proficient in **[Python Programming Language and Kotlin]**; feel free to reach out for discussions or inquiries.
+- **📫 Contact:** [] | [..............]
+- **⚡ Fun Fact:**[I am hardworking But also I am too lazy😝]**
 
 ---
 
@@ -24,7 +24,8 @@ I am proficient in a wide array of technologies and tools, including:
 - **Python** (Data Science, Web Development)
 - **Java** (Enterprise Applications)
 - **C++** (Systems Programming)
-
+- **PHP** (Web Development)
+- **Kotlin** (Android Development)
 ### **Frameworks & Libraries**
 - **Frontend:** React, Angular, Vue.js
 - **Backend:** Node.js, Django, Flask

@@ -8,12 +8,12 @@ As a passionate software engineering student, I thrive on solving complex proble
 
 ## 🌐 About Me
 
-- **🔭 Current Endeavor:** Developing cutting-edge applications using **[Your Current Technology/Framework]**.
-- **🌱 Continuous Learning:** Currently delving into **[Your Current Learning Focus]**.
-- **🤝 Collaboration:** Open to collaborating on projects involving **[Your Areas of Interest]**.
-- **💬 Expertise:** Proficient in **[Your Areas of Expertise]**; feel free to reach out.
-- **📫 Contact:** [Your Email] | [LinkedIn Profile]
-- **⚡ Fun Fact:** [A Fun Fact About You]
+- **🔭 Current Endeavor:** Developing cutting-edge applications using **[Full Stack Web-Dev/React.js]**.
+- **🌱 Continuous Learning:** Currently delving into **[Embedded Systems]**.
+- **🤝 Collaboration:** Open to collaborating on projects involving **[System Security]**.
+- **💬 Expertise:** Proficient in **Python Programming and Kotlin]**; feel free to reach out.
+- **📫 Contact me at:** [Twitter] | [LinkedIn]
+- **⚡ Fun Fact:** [I am hardworking but also I am very lazy person.]
 
 ---
 

@@ -18,7 +18,7 @@ I thrive on solving complex problems and building innovative solutions. My exper
 - **🌱 Continuous Learning:** Currently delving into **[Embedded Systems]** to enhance my skill set.
 - **🤝 Collaboration:** Actively seeking opportunities to collaborate on projects involving **[System Security]**.
 - **💬 Expertise:** Proficient in **[Python Programming Language and Kotlin]**; feel free to reach out for discussions or inquiries.
-- **📫 Contact me at:** [Twitter/X] | [Gmail & LinkedIn]
+- **📫 Contact me at:** [Twitter] | [Gmail & LinkedIn]
 - **⚡ Fun Fact:**[I am hardworking But also I am too lazy😝]**
 
 ---

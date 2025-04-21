@@ -1,16 +1,24 @@
 # 👋 Welcome to My GitHub Profile - **Abhinav Tiwari**
 
-As a passionate software engineering student and technology enthusiast, I thrive on solving complex problems and building innovative solutions. My expertise spans across various domains, and I am committed to leveraging technology to create impactful applications.
+As a passionate software engineering student and technology enthusiast from the holy city of Varanasi,UP, India.
+
+I thrive on solving complex problems and building innovative solutions. My expertise spans across various domains, and I am committed to leveraging technology to create impactful applications that brings up a tech revolutionary startup in India some day.
 
 ---
 
 ## 🌐 About Me
 
+- **👨‍🎓 Completed Secondary Education from hometown where I have not been excellent in my academics but my will to work for my dreams never died inspite of having some and watching too much failures in life.
+
+- ** A Solo-Traveller having introvert personality.
+
+- ** Don't have believe in friendships because never got a desired friend.
+
 - **🔭 Current Endeavor:** Developing cutting-edge applications using **[Full Stack Development]**.
 - **🌱 Continuous Learning:** Currently delving into **[Embedded Systems]** to enhance my skill set.
 - **🤝 Collaboration:** Actively seeking opportunities to collaborate on projects involving **[System Security]**.
 - **💬 Expertise:** Proficient in **[Python Programming Language and Kotlin]**; feel free to reach out for discussions or inquiries.
-- **📫 Contact:** [] | [..............]
+- **📫 Contact me at:** [Twitter/X] | [Gmail & LinkedIn]
 - **⚡ Fun Fact:**[I am hardworking But also I am too lazy😝]**
 
 ---

@@ -62,7 +62,7 @@ As a passionate software engineering student, I thrive on solving complex proble
 
 Here are some of my notable projects:
 
-- **[Project 1](https:// https://github.com/iabhinavtiwari247/OpRP)**: A brief description of the project.
+- **[Project 1](https://github.com/iabhinavtiwari247/OpRP)**: A brief description of the project.
 - **[Project 2](https://github.com/yourusername/project2)**: A brief description of the project.
 - **[Project 3](https://github.com/yourusername/project3)**: A brief description of the project.
 

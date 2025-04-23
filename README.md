@@ -4,7 +4,7 @@
 
 ![Neon Gradient Banner](https://images.app.goo.gl/v6mZ89giKrC1GxMP7//#39FF14/Green?text=Welcome+to+My+Profile) <!-- https://images.app.goo.gl/v6mZ89giKrC1GxMP7-->
 
-As a passionate software engineering student, I thrive on solving complex problems and building innovative solutions. My expertise spans various domains, and I am committed to leveraging technology to create impactful applications.
+As a passionate software engineering student, I thrive on solving complex problems and building innovative solutions. My expertise spans various domains, and I am committed to leveraging technology to create impactful applications and my dreame startup.  .
 
 ---
 
@@ -52,8 +52,8 @@ As a passionate software engineering student, I thrive on solving complex proble
 
 ## 🌍 Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **Twitter:** [Your Twitter Handle](https://twitter.com/your-twitter-handle)
+- **Instagram:** [Your Instagram Profile](https://www.instagram.com/me_abhinav_tiwari777?igsh=MTh4YzBkdDJueTM2dw==)
+- **Twitter:** [Your Twitter Handle](https://x.com/me_abhinav_2027?t=Lau6SJY9RqcsqFmFCFLtoQ&s=09)
 - **Personal Website:** [Your Website](https://yourwebsite.com)
 
 ---

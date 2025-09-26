@@ -1,3 +1,4 @@
+![pexels-pixabay-460621](https://github.com/user-attachments/assets/a2dc8b9f-e46c-4e6a-9006-ecebe80d9a04)
 
 # 👋 Welcome to My GitHub Profile - **Abhinav Tiwari**
 

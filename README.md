@@ -2,7 +2,8 @@
 
 # 👋 Welcome to My GitHub Profile - **Abhinav Tiwari**
 
-![Neon Gradient Banner](https://images.app.goo.gl/v6mZ89giKrC1GxMP7//#39FF14/Green?text=Welcome+to+My+Profile) <!-- https://images.app.goo.gl/v6mZ89giKrC1GxMP7-->
+![Neon Gradient Banner]()![pexels-snapwire-34950](https://github.com/user-attachments/assets/9b78f307-7bc8-4ed3-9e42-f932e75bf4b0)
+ <!-- https://images.app.goo.gl/v6mZ89giKrC1GxMP7-->
 
 As a passionate software engineering student, I thrive on solving complex problems and building innovative solutions. My expertise spans various domains, and I am committed to leveraging technology to create impactful applications and my dreame startup.  .
 

@@ -45,7 +45,7 @@ As a passionate software engineering student, I thrive on solving complex proble
 ## 📈 GitHub Stats
 ![github logo](https://github.com/user-attachments/assets/1b07c6ad-24a2-49f6-b74e-d05381678c3e)
 
-![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabhinavtiwari247&show_icons=true&theme=radical&count_private=true)
+![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabhinavtiwari247&show_icons=true&theme=radical&count_private=true&v=1)
 
 ---
 

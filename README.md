@@ -52,11 +52,11 @@ As a passionate software engineering student, I thrive on solving complex proble
 
 ## 🌍 Connect with Me
 
-- **Instagram:** [Your Instagram Profile](https://www.instagram.com/me_abhinav_tiwari777?igsh=MTh4YzBkdDJueTM2dw==)
-- **Twitter:** [Your Twitter Handle](https://x.com/me_abhinav_2027?t=Lau6SJY9RqcsqFmFCFLtoQ&s=09)
-- **Personal Website:** [Your Website](https://yourwebsite.com)
-
----
+- **Instagram:** [My Instagram Profile](https://www.instagram.com/me_abhinav_tiwari777?igsh=MTh4YzBkdDJueTM2dw==)
+- **Twitter:** [My Twitter Handle](https://x.com/me_abhinav_2027?t=Lau6SJY9RqcsqFmFCFLtoQ&s=09)
+- **Personal Website:** [My Website](https://yourwebsite.com)
+- **Leetcode:** [My Leetcode Profile](https://)
+- **LinkedIn:** [My LinkedIn Profile](https://w)
 
 ## 📂 Featured Projects
 

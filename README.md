@@ -61,8 +61,8 @@ As a passionate software engineering student, I thrive on solving complex proble
 ## 📂 Featured Projects
 
 Here are some of my notable projects:
-
-- **[Project 1](https://github.com/iabhinavtiwari247/OpRP)**: A brief description of the project.
+y 
+- **[Doomculator](https://690f90d4830685bdc68ebb95--musical-moonbeam-67498d.netlify.app/)**: A Dayand Date Calculator/Finder that uses Doomsday Algorithm. It helps to find future day and date for a specific day using modular mathematics and computing algorithms. 
 - **[Project 2](https://github.com/yourusername/project2)**: A brief description of the project.
 - **[Project 3](https://github.com/yourusername/project3)**: A brief description of the project.
 

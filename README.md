@@ -3,7 +3,7 @@
 # 👋 Welcome to My GitHub Profile - **Abhinav Tiwari**
 
 
-As a passionate S.A.D.E Developer Engineer (Fresher), I thrive on solving complex problems and building innovative solutions. My expertise spans various domains, and I am committed to leveraging technology to create impactful applications and my dreame startup.  .
+As a passionate S.A.D.E Developer Engineer (Fresher), I thrive on solving complex problems and building innovative solutions. My expertise spans various domains, and I am committed to leveraging technology to create impactful applications and my dream startup.  .
 
 ---
 

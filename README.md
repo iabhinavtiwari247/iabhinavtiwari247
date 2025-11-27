@@ -45,7 +45,8 @@ As a passionate S.A.D.E Developer Engineer (Fresher), I thrive on solving comple
 
 ## 📈 GitHub Stats
 # Hi, I'm Abhinav 👋
-![github banner3](https://github.com/user-attachments/assets/3f0f80b3-fd7c-460f-a48a-5a2a1e57799a)
+![neon abhinav](https://github.com/user-attachments/assets/a4d42363-d6ea-4aa4-8390-3c9648961f11)
+
 
 ![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabhinavtiwari247&show_icons=true&theme=radical&count_private=true&v=2)
 

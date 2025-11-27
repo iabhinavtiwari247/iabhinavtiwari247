@@ -1,4 +1,5 @@
-![pexels-pixabay-460621](https://github.com/user-attachments/assets/a2dc8b9f-e46c-4e6a-9006-ecebe80d9a04)
+![github banner](https://github.com/user-attachments/assets/208259b2-e8d8-46e8-90f9-3a8617308fbb)
+
 
 # 👋 Welcome to My GitHub Profile - **Abhinav Tiwari**
 

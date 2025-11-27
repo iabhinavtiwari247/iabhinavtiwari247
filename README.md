@@ -66,7 +66,9 @@ As a passionate S.A.D.E Developer Engineer (Fresher), I thrive on solving comple
 ## 📂 Featured Projects
 
 Here are some of my notable projects:
-y 
+![github banner4](https://github.com/user-attachments/assets/ff318052-39ae-4a3c-b3b5-0dad323af340)
+
+
 - **[Doomculator](https://690f90d4830685bdc68ebb95--musical-moonbeam-67498d.netlify.app/)**: A Future Day and Date Calculator/Finder that uses Doomsday Algorithm. It helps to find future day and date for a specific day using modular mathematics and computing algorithms. 
 - **[Project 2](https://github.com/yourusername/project2)**: A brief description of the project.
 - **[Project 3](https://github.com/yourusername/project3)**: A brief description of the project.

@@ -54,7 +54,7 @@ As a passionate S.A.D.E Developer Engineer (Fresher), I thrive on solving comple
 ---
 
 ## 🌍 Connect with Me
-![github banner2](https://github.com/user-attachments/assets/ac92c511-9616-405c-a475-f556f38c4537)
+
 
 - **Instagram:** [My Instagram Profile](https://www.instagram.com/me_abhinav_tiwari777?igsh=MTh4YzBkdDJueTM2dw==)
 - **Twitter:** [My Twitter Handle](https://x.com/me_abhinav_2027?t=Lau6SJY9RqcsqFmFCFLtoQ&s=09)

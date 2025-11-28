@@ -57,9 +57,9 @@ As a passionate S.A.D.E Developer Engineer (Fresher), I thrive on solving comple
 ## 🌍 Connect with Me
 
 
-- **Instagram:** [My Instagram Profile](https://www.instagram.com/me_abhinav_tiwari777?igsh=MTh4YzBkdDJueTM2dw==)
-- **Twitter:** [My Twitter Handle](https://x.com/me_abhinav_2027?t=Lau6SJY9RqcsqFmFCFLtoQ&s=09)
-- **Personal Website:** [My Website](https://yourwebsite.com)
+- **Instagram:** [Ig.abhinav](https://www.instagram.com)
+- **Twitter:** [x.](https://)
+- **Personal Website:** [Portfolio](https://yourwebsite.com)
 - **Leetcode:** [My Leetcode Profile](https://)
 - **LinkedIn:** [My LinkedIn Profile](https://w)
 

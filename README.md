@@ -42,7 +42,7 @@ As a passionate Software Developer Engineer (Fresher), I thrive on solving compl
 
 ## 📈 GitHub Stats
 
-![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabhinavtiwari247&show_icons=true&theme=radical&include_all_commits=true&hide_title=true&v=1)
+![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabhinavtiwari247&show_icons=true&theme=radical&include_all_commits=true&hide_title=true)
 
 ### Additional Insights
 - **Top Languages**: ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iabhinavtiwari247&theme=radical&layout=compact&hide=html,css)

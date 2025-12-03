@@ -1,10 +1,8 @@
 ![github banner](https://github.com/user-attachments/assets/208259b2-e8d8-46e8-90f9-3a8617308fbb)
 
-
 # 👋 Welcome to My GitHub Profile - **Abhinav Tiwari**
 
-
-As a passionate S.A.D.E Developer Engineer (Fresher), I thrive on solving complex problems and building innovative solutions. My expertise spans various domains, and I am committed to leveraging technology to create impactful applications and my dream startup.  .
+As a passionate Software Developer Engineer (Fresher), I thrive on solving complex problems and building innovative solutions. My expertise spans various domains, and I am committed to leveraging technology to create impactful applications and drive my dream startup.
 
 ---
 
@@ -12,21 +10,20 @@ As a passionate S.A.D.E Developer Engineer (Fresher), I thrive on solving comple
 
 ![Github Cover](https://github.com/user-attachments/assets/120b8148-22b6-42a2-b548-6fbfa036ec42)
 
-
-- **🔭 Current Endeavor:** Developing cutting-edge applications using **[Full Stack Web-Dev/React.js]**.
-- **🌱 Continuous Learning:** Currently delving into **[Embedded Systems]**.
-- **🤝 Collaboration:** Open to collaborating on projects involving **[System Security]**.
-- **💬 Expertise:** Proficient in **Python Programming and Kotlin]**; feel free to reach out.
-- **📫 Contact me at:** [Twitter] | [LinkedIn]
-- **⚡ Fun Fact:** [I am hardworking but also I am very lazy person.]
+- **🔭 Current Endeavor:** Developing cutting-edge applications using **Full Stack Web Development with React.js**.
+- **🌱 Continuous Learning:** Currently delving into **Embedded Systems**.
+- **🤝 Collaboration:** Open to collaborating on projects involving **System Security**.
+- **💬 Expertise:** Proficient in **Python Programming and Kotlin**; feel free to reach out.
+- **📫 Contact me at:** [Twitter](https://twitter.com/yourhandle) | [LinkedIn](https://linkedin.com/in/yourprofile)
+- **⚡ Fun Fact:** I'm hardworking but also embrace laziness for creative thinking!
 
 ---
-
 
 ## 🛠️ Tech Stack
 
 ![Neon Gradient Tech Stack](https://via.placeholder.com/1200x50/00FF00/000000?text=Tech+Stack) <!-- Replace with your own gradient image -->
 ![tech stack 2](https://github.com/user-attachments/assets/ddf90605-d1f7-451c-aa01-0901c2df5e2d)
+
 ### **Languages**
 - ![JavaScript Badge](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
 - ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,31 +40,32 @@ As a passionate S.A.D.E Developer Engineer (Fresher), I thrive on solving comple
 
 ---
 
-# Hi, I'm Abhinav 👋
-
 ## 📈 GitHub Stats
 
-## ![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabhinavtiwari247&show_icons=true&theme=radical)
+![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabhinavtiwari247&show_icons=true&theme=radical&include_all_commits=true&hide_title=true&v=1)
+
+### Additional Insights
+- **Top Languages**: ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iabhinavtiwari247&theme=radical&layout=compact&hide=html,css)
+
 ---
 
 ## 🌍 Connect with Me
 
-
-- **Instagram:** [Ig.abhinav](https://www.instagram.com)
-- **Twitter:** [x.](https://)
+- **Instagram:** [Ig.abhinav](https://www.instagram.com/yourhandle)
+- **Twitter:** [x.](https://twitter.com/yourhandle)
 - **Personal Website:** [Portfolio](https://yourwebsite.com)
-- **Leetcode:** [My Leetcode Profile](https://)
-- **LinkedIn:** [My LinkedIn Profile](https://w)
+- **Leetcode:** [My Leetcode Profile](https://leetcode.com/yourhandle)
+- **LinkedIn:** [My LinkedIn Profile](https://linkedin.com/in/yourprofile)
+
+---
 
 ## 📂 Featured Projects
 
 Here are some of my notable projects:
-![github banner4](https://github.com/user-attachments/assets/ff318052-39ae-4a3c-b3b5-0dad323af340)
 
-
-- **[Doomculator](https://690f90d4830685bdc68ebb95--musical-moonbeam-67498d.netlify.app/)**: A Future Day and Date Calculator/Finder that uses Doomsday Algorithm. It helps to find future day and date for a specific day using modular mathematics and computing algorithms. 
-- **[Project 2](https://github.com/yourusername/project2)**: A brief description of the project.
-- **[Project 3](https://github.com/yourusername/project3)**: A brief description of the project.
+- **[Doomculator](https://690f90d4830685bdc68ebb95--musical-moonbeam-67498d.netlify.app/)**: A Future Day and Date Calculator/Finder that uses the Doomsday Algorithm. It helps find future days and dates for specific dates using modular mathematics and computing algorithms.
+- **[Project 2](https://github.com/yourusername/project2)**: A brief description of the project. (Replace with actual link and details)
+- **[Project 3](https://github.com/yourusername/project3)**: A brief description of the project. (Replace with actual link and details)
 
 ---
 
@@ -78,3 +76,4 @@ Thank you for visiting my profile! If you have any questions or would like to co
 ---
 
 *“The best way to predict the future is to invent it.” – Alan Kay*
+

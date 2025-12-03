@@ -72,19 +72,19 @@ As a passionate Software Developer Engineer (Fresher), I focus on building scala
   <a href="https://github.com/iabhinavtiwari247">
     <img src="https://img.shields.io/badge/GitHub-Abhinav-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin">
+  <a href="https://www.linkedin.com/in/....">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://twitter.com/...">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
   </a>
-  <a href="https://www.instagram.com/yourhandle">
+  <a href="https://www.instagram.com/......">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
   </a>
-  <a href="https://leetcode.com/yourhandle">
+  <a href="https://leetcode.com/.....">
     <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode" />
   </a>
-  <a href="https://yourwebsite.com">
+  <a href="https://......">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome" />
   </a>
 </p>

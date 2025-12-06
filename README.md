@@ -31,7 +31,7 @@ I'm a passionate developer diving deep into the world of technology. Here's a bi
 - 🤝 *Looking to Collaborate*: System Security & High-Reliability Systems.<br>
 - 💬 *Skills*: Python, Kotlin, JavaScript, Full MERN Stack Web Development, C++, DSA.<br>
 - 📫 *Reach Me*: [Twitter](https://x.com/me_abhinav_2027) | [LinkedIn](https://www.linkedin.com/in/abhinav-tiwari-348233290)<br>
-- ⚡ *Fun Fact*: Creative laziness drives optimized solutions.<br><br>
+- ⚡ *Fun Fact*: Creative Mindset along with extreme laziness, my tricks finds out and drives optimized solutions to most problems but in my own matters they give me false hopes .<br><br>
 
 - 😔 *Sad Fact* : Once I was an extrovert but some after school incidents turned me into introvert, I can appear happy from face but actually it's always a fake smile, a thief can make a money theft but in my case the rare theft was made and the thing which was stolen is my real smile.
 

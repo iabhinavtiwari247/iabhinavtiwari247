@@ -16,6 +16,7 @@
 
 As a passionate Software Developer Engineer (Fresher), I focus on building scalable systems and meaningful digital experiences. My work reflects a disciplined engineering mindset rooted in fundamentals and long-term thinking.
 
+
 ---
 
 ## 🌐 About Me
@@ -25,12 +26,19 @@ As a passionate Software Developer Engineer (Fresher), I focus on building scala
 </p>
 
 # 💫 About Me:
-I'm a passionate developer diving deep into the world of technology. Here's a bit about me:<br><br>
+I'm a passionate developer diving deep into the world of technology.
+
+ Here's a bit about me:<br><br>
 - 🔭 *Current Work*: Full-Stack Development with React.js, Node.js, etc.<br>
+
 - 🌱 *Learning*: System Design (LLD, HLD), Large Language Models, Artificial Intelligence and Machine Learning, Automation, Data Science, Embedded Systems & Low-Level Computing, Software Architecture.<br>
+
 - 🤝 *Looking to Collaborate*: System Security & High-Reliability Systems.<br>
+
 - 💬 *Skills*: Python, Kotlin, JavaScript, Full MERN Stack Web Development, C++, DSA.<br>
+
 - 📫 *Reach Me*: [Twitter](https://x.com/me_abhinav_2027) | [LinkedIn](https://www.linkedin.com/in/abhinav-tiwari-348233290)<br>
+
 - ⚡ *Fun Fact*: Creative Mindset along with extreme laziness, my tricks finds out and drives optimized solutions to most problems but in my own matters they give me false hopes .<br><br>
 
 - 😔 *Sad Fact* : Once I was an extrovert but some after school incidents turned me into introvert, I can appear happy from face but actually it's always a fake smile, a thief can make a money theft but in my case the rare theft was made and the thing which was stolen is my real smile.

@@ -4,7 +4,8 @@
 
 
 
-https://github.com/user-attachments/assets/00b61e55-e3c3-4fdd-ae88-26f06b7ba920
+![github banner](https://github.com/user-attachments/assets/beb1a68d-2b2e-4ba3-961f-f7324fd32158)
+
 
 
 
@@ -80,6 +81,7 @@ I'm a passionate developer diving deep into the world of technology. Here's a bi
 ![](https://github-readme-stats.vercel.app/api?username=iabhinavtiwari247&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=iabhinavtiwari247&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iabhinavtiwari247&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=iabhinavtiwari247&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iabhinavtiwari247&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -99,6 +101,8 @@ I'm a passionate developer diving deep into the world of technology. Here's a bi
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+## Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=iabhinavtiwari247&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 
 ---
@@ -143,6 +147,9 @@ Description of project 3.
 🔗 https://github.com/iabhinavtiwari247/project3
 
 ---
+##  Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/iabhinavtiwari247?theme=dark&font=Baloo&ext=heatmap)
+
 
 ## 🚀 Let's Innovate Together!
 
@@ -151,3 +158,18 @@ Thank you for visiting my profile! If you have any questions or would like to co
 ---
 
 *“The best way to predict the future is to invent it.” – Alan Kay*
+
+## 🔸Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=iabhinavtiwari247&color=green)
+
+[![Call Me](https://img.shields.io/badge/Call_Me-+91_XXXXXXXXXX-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+91XXXXXXXXXX)
+
+## Connct with me on Teligram :
+[![Telegram](https://img.shields.io/badge/Telegram-Chat_Me-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Software_Engineer2028)
+
+## Portfolio :
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-1F75FE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-url.com)
+
+## Payments :
+![UPI](https://img.shields.io/badge/UPI-tiwariabhinav273@cnrb-2E8B57?style=for-the-badge&logo=upi&logoColor=white)
+

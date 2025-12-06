@@ -122,7 +122,7 @@ I'm a passionate developer diving deep into the world of technology. Here's a bi
   <a href="https://www.instagram.com/abhinavtiwari_247?igsh=NmIwb3BhZmxiNmN5">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
   </a>
-  <a href="https://leetcode.com/u/Usernamenotfound/">
+  <a href="https://leetcode.com/u/............................................../">
     <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode" />
   </a>
   <a href="https://abhinavtiwari247.vercel.app/">

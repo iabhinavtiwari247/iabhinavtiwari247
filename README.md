@@ -164,7 +164,7 @@ Thank you for visiting my profile! If you have any questions or would like to co
 
 [![Call Me](https://img.shields.io/badge/Call_Me-+91_XXXXXXXXXX-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+91XXXXXXXXXX)
 
-## Connct with me on Teligram :
+## Connect with me on Teligram :
 [![Telegram](https://img.shields.io/badge/Telegram-Chat_Me-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Software_Engineer2028)
 
 ## Portfolio :

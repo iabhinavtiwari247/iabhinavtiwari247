@@ -33,6 +33,9 @@ I'm a passionate developer diving deep into the world of technology. Here's a bi
 - 📫 *Reach Me*: [Twitter](https://x.com/me_abhinav_2027) | [LinkedIn](https://www.linkedin.com/in/abhinav-tiwari-348233290)<br>
 - ⚡ *Fun Fact*: Creative laziness drives optimized solutions.<br><br>
 
+- 😔 *Sad Fact* : Once I was an extrovert but some after school incidents turned me into introvert, I can appear happy from face but actually it's always a fake smile, a thief can make a money theft but in my case the rare theft was made and the thing which was stolen is my real smile.
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhinavtiwari_247?igsh=NmIwb3BhZmxiNmN5) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-tiwari-348233290) 

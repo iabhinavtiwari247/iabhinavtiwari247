@@ -1,3 +1,9 @@
+
+<h2 align="center">Abhinav Tiwari</h2>
+<p align="center">
+Aspiring Software Developement Engineer • Data Scientist / Software Architect 
+</p>
+
 <!-- Banner -->
 <p align="center">
   

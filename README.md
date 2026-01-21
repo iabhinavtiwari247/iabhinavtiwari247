@@ -39,7 +39,7 @@ I'm a passionate developer diving deep into the world of technology.
 
 - 💬 *Skills*: Python, Kotlin, JavaScript, Full MERN Stack Web Development, C++, DSA.<br>
 
-- 📫 *Reach Me*: [Twitter](https://x.com/me_abhinav_2027) | [LinkedIn](https://www.linkedin.com/in/abhinav-tiwari-348233290)<br>
+- 📫 *Reach Me*: [Twitter](https://x.com/m) | [LinkedIn](https://www.linkedin.com/in/a)<br>
 
 - ⚡ *Fun Fact*: Creative Mindset along with extreme laziness, my tricks finds out and drives optimized solutions to most problems but in my own matters they give me false hopes .<br><br>
 

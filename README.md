@@ -48,7 +48,7 @@ I'm a passionate developer diving deep into the world of technology.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhinavtiwari_247?igsh=NmIwb3BhZmxiNmN5) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-tiwari-348233290) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/me_abhinav_2027?t=awGgi4mJ5Y9nWrk34yRlag&s=09)
 
 # 💻 Tech Stack:
@@ -126,19 +126,19 @@ I'm a passionate developer diving deep into the world of technology.
   <a href="https://github.com/iabhinavtiwari247">
     <img src="https://img.shields.io/badge/GitHub-Abhinav-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/abhinav-tiwari-348233290">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://x.com/me_abhinav_2027">
+  <a href="https://x.com/m">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
   </a>
-  <a href="https://www.instagram.com/abhinavtiwari_247?igsh=NmIwb3BhZmxiNmN5">
+  <a href="https://www.instagram.com/ab">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
   </a>
   <a href="https://leetcode.com/u/............................................../">
     <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode" />
   </a>
-  <a href="https://abhinavtiwari247.vercel.app/">
+  <a href="https:/portfo/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome" />
   </a>
 </p>

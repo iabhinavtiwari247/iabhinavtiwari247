@@ -1,7 +1,7 @@
 
 <h2 align="center">Abhinav Tiwari</h2>
 <p align="center">
-Software Developement Engineer • 
+Software Developement Engineer • Software Architect 
 </p>
 
 

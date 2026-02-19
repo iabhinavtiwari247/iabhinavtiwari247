@@ -151,9 +151,9 @@ I'm a passionate developer diving deep into the world of technology.
 A future day/date calculator using the Doomsday Algorithm.  
 🔗 **Live:** https://690f90d4830685bdc68ebb95--musical-moonbeam-67498d.netlify.app/
 
-### 🔸 **Project 2**  
-Description of project 2.  
-🔗 https://github.com/iabhinavtiwari247/project2
+### 🔸 **Artisian-AI**  
+An AI based platform to offer cair price to artist for their art work eliminating the language barriers.
+🔗 https://github.com/ibhinavtiwari247/project2
 
 ### 🔸 **Project 3**  
 Description of project 3.  

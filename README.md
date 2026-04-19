@@ -50,6 +50,7 @@ I'm a passionate developer diving deep into the world of technology.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhinavtiwari_247?igsh=NmIwb3BhZmxiNmN5) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/me_abhinav_2027?t=awGgi4mJ5Y9nWrk34yRlag&s=09)
+[![Follow Me](https://img.shields.io/badge/Treefe-Profile-blue?style=for-the-badge&logo=linktree&logoColor=white)](https://www.treefe.com/share-profile/?referral_code=2FDA3E&id=ODMHcD1XHh9g/24DfMfK6g==:RBc8g7gpeUB2soK9PJ/HkSfAYe0euisRriH4fjlYqpk=)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -140,6 +141,9 @@ I'm a passionate developer diving deep into the world of technology.
   </a>
   <a href="https:/portfo/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome" />
+  </a>
+  <a href="https://www.treefe.com/share-profile/?referral_code=2FDA3E&id=DOjXiMdih4plK9D+zGIzFQ==:noINrVUZYb8vF5UF4Sdk5IJIacrTC6Q9aN7vzFyFqxs=">
+    <img src="https://img.shields.io/badge/My%20Social-Treefe-green?style=for-the-badge" />
   </a>
 </p>
 
